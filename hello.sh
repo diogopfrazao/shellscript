@@ -1,4 +1,5 @@
  #!/bin/bash
  clear;
- echo "hello world";
+ echo "Teste GIT";
+ 
  exit;
